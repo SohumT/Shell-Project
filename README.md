@@ -1,6 +1,6 @@
 Project Features:
 
-Important: Code for this project is hidden due to coursework requirements
+Important: Code for this project is hidden due to university requirements
 
 Part 1:
 
