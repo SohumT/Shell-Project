@@ -1,5 +1,7 @@
 Project Features:
 
+# Code for this project is hidden due to coursework requirements
+
 Part 1:
 
 1. Accepting complex commands
@@ -31,8 +33,6 @@ Extra Features:
 1. creating default source file
 2. variable prompt
 3. path completion
-
-## Code for this project is hidden due to coursework requirements
 
 ## Project Gif
 
