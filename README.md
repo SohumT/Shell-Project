@@ -34,6 +34,10 @@ Extra Features:
 2. variable prompt
 3. path completion
 
+Technology Specifications:
+•	Developed a shell interpreter in C++
+• Utized Lex/Yacc for shell parsing 
+
 ## Project Gif
 
 ![](demo.gif)
