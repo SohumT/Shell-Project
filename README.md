@@ -26,11 +26,13 @@ Part 3:
 4. Edit mode
 5. History
 
-Extra Credit Features:
+Extra Features:
 
 1. creating default source file
 2. variable prompt
 3. path completion
+
+## Code for this project is hidden due to coursework requirements
 
 ## Project Gif
 
