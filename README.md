@@ -1,6 +1,6 @@
 Project Features:
 
-Important: Code for this project is hidden due to university requirements
+Important: Code for this project is hidden due to university requirements, but gif demos are available
 
 Part 1:
 
